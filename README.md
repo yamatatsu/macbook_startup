@@ -12,7 +12,7 @@
   - サイズ、拡大、　自動的に隠す
 5. touch id
 
-### アプリケーションansible
+### ansible
 1.  準備
   1. homebrew
     - https://brew.sh/index_ja.html
@@ -23,6 +23,8 @@
 1. `git clone https://github.com/yamatatsu/macbook_startup.git`
 1. `ansible-playbook site.yml -vvvv --ask-become-pass`
 
+### 手動インストール
+- trello
 
 
 

@@ -18,6 +18,11 @@ homebrew_cask_packages:
   - { name: slack }
   - { name: github-desktop }
   - { name: docker }
+  - { name: visual-studio-code }
+  - { name: karabiner-elements }
+  - { name: google-japanese-ime }
+  - { name: gyazo }
+  - { name: franz }
 
 homebrew_packages:
   - { name: ghq, install_options: completions }
